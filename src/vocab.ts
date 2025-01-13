@@ -22,20 +22,12 @@ export const vocab: CardContent[] = [
         definition: "relating to idiosyncrasy; peculiar or individual. (adj)"
     },
     {
-        term: "prostrate",
-        definition: "lying stretched out on the ground with one's face downward. (adj)"
-    },
-    {
         term: "surfeit",
         definition: "an excessive amount of something. (noun)"
     },
     {
         term: "ignominious",
         definition: "deserving or causing public disgrace or shame. (adj)"
-    },
-    {
-        term: "hegemony",
-        definition: "leadership or dominance, especially by one country or social group over others. (noun)"
     },
     {
         term: "goad",
