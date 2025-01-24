@@ -94,6 +94,8 @@
         align-items: center;
 
         font-size: xx-large;
+
+        transform: rotateX(0deg) 
     }
 
     .card-back {
