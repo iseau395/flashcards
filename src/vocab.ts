@@ -2,64 +2,64 @@ import type { CardContent } from "./lib/Card.svelte";
 
 export const vocab: CardContent[] = [
     {
-        term: "sordid",
-        definition: "involving ignoble actions and motives; arousing moral distaste and contempt. (adj)"
+        term: "multivalent",
+        definition: "having or susceptible of many applications, interpretations, meanings, or values. (adj)"
     },
     {
-        term: "etymology",
-        definition: "the study of the origin of words and the way in which their meanings have changed throughout history. (noun)"
+        term: "beget",
+        definition: "(typically of a man, sometimes of a man and a woman) bring (a child) into existence by the process of reproduction. (verb)"
     },
     {
-        term: "indignation",
-        definition: "anger or annoyance provoked by what is perceived as unfair treatment. (noun)"
+        term: "cajole",
+        definition: "persuade (someone) to do something by sustained coaxing or flattery. (verb)"
     },
     {
-        term: "acquiesce",
-        definition: "accept something reluctantly but without protest. (verb)"
+        term: "deportment",
+        definition: "a person's behavior or manners. (noun)"
     },
     {
-        term: "idiosyncratic",
-        definition: "relating to idiosyncrasy; peculiar or individual. (adj)"
+        term: "sanction",
+        definition: "give official permission or approval for (an action). (verb)"
     },
     {
-        term: "surfeit",
-        definition: "an excessive amount of something. (noun)"
+        term: "corroborate",
+        definition: "confirm or give support to (a statement, theory, or finding). (verb)"
     },
     {
-        term: "ignominious",
-        definition: "deserving or causing public disgrace or shame. (adj)"
+        term: "synesthesia",
+        definition: "the production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body. (noun)"
     },
     {
-        term: "goad",
-        definition: "provoke or annoy (someone) so as to stimulate some action or reaction. (adj)"
+        term: "vacuous",
+        definition: "having or showing a lack of thought or intelligence; mindless. (adj)"
     },
     {
-        term: "languor",
-        definition: "the state or feeling, often pleasant, of tiredness or inertia. (noun)"
+        term: "impasse",
+        definition: "a situation in which no progress is possible, especially because of disagreement; a deadlock. (noun)"
     },
     {
-        term: "generalization",
-        definition: "a general statement or concept obtained by inference from specific cases. (noun)"
+        term: "noun",
+        definition: "a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement. (noun)"
     },
     {
-        term: "allocation",
-        definition: "the action or process of allocating or distributing something. (noun)"
+        term: "limn",
+        definition: "depict or describe in painting or words. (verb)"
     },
     {
-        term: "wry",
-        definition: "using or expressing dry, especially mocking, humor. (adj)"
+        term: "inexorable",
+        definition: "impossible to stop or prevent. (adj)"
     },
     {
-        term: "admonish",
-        definition: "warn or reprimand someone firmly. (verb)"
+        term: "scrupulous",
+        definition: "(of a person or process) diligent, thorough, and extremely attentive to details. (adj)"
     },
     {
-        term: "visage",
-        definition: "a person's face, with reference to the form or proportions of the features. (noun)"
+        term: "excoriate",
+        definition: "censure or criticize severely. (verb)"
     },
     {
-        term: "jovial",
-        definition: "cheerful and friendly."
+        term: "delimit",
+        definition: "determine the limits or boundaries of. (verb)"
     }
 ]
 
