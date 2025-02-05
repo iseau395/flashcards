@@ -38,7 +38,7 @@ export const vocab: CardContent[] = [
         definition: "a situation in which no progress is possible, especially because of disagreement; a deadlock. (noun)"
     },
     {
-        term: "noun",
+        term: "ennui",
         definition: "a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement. (noun)"
     },
     {
